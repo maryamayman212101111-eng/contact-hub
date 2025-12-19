@@ -1,0 +1,73 @@
+body
+{
+    background-color: rgb(237, 237, 237);
+    padding-bottom: 10px;
+    margin-left: 15px;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+  
+}
+.navbar {
+  display: flex;
+  justify-content: space-between; 
+  align-items: center;           
+}
+.nav-right i {
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.profile-img {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.fav p
+{
+white-space: nowrap;
+}
+
+.btn-purble
+{
+    background-color: rgb(85, 39, 127);
+}
+.btn-grey
+{
+    background-color: rgb(210, 207, 207);
+}
+.btn-purble:hover
+{
+    background-color: rgb(106, 38, 169);
+}
+img
+{
+    width: 4%;
+}
+.w-17
+{
+    width: 17%;
+}
+.text-purble
+{
+    color: rgb(106, 38, 169) ;
+}
+.nav-title
+{
+    white-space: nowrap;
+}
+.w-10
+{
+    width: 10%;
+}
+.w-15
+{
+    width: 15%;
+}
+.h-15
+{
+  height: 15%;
+}
