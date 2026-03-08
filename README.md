@@ -13,4 +13,4 @@ fully functional contact management application built with React.js. This app al
 - **java script**
 - **bootstrap CSS** (Styling)
 - **Git & GitHub** (Version Control)
-- live demo:
+
